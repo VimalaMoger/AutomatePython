@@ -1,0 +1,86 @@
+tuesday !!!!!!!!!!!!!!!!
+tuesday L!!!!!!!!!!!
+Traceback (most recent call last):
+  File "C:\Users\mvmgr\Documents\pycharmprojects\exceptions.py", line 4, in <module>
+    raise Exception("Error occured ")
+Exception: Error occured 
+Traceback (most recent call last):
+  File "C:\Users\mvmgr\Documents\pycharmprojects\exceptions.py", line 4, in <module>
+    raise Exception("Error occured ")
+Exception: Error occured 
+Traceback (most recent call last):
+  File "C:\Users\mvmgr\Documents\pycharmprojects\exceptions.py", line 4, in <module>
+    raise Exception("Error occured ")
+Exception: Error occured 
+Traceback (most recent call last):
+  File "C:\Users\mvmgr\Documents\pycharmprojects\exceptions.py", line 4, in <module>
+    raise Exception("Error occured ")
+Exception: Error occured 
+Traceback (most recent call last):
+  File "C:\Users\mvmgr\Documents\pycharmprojects\exceptions.py", line 4, in <module>
+    raise Exception("Error occured ")
+Exception: Error occured 
+Traceback (most recent call last):
+  File "C:\Users\mvmgr\Documents\pycharmprojects\exceptions.py", line 4, in <module>
+    raise Exception("Error occured ")
+Exception: Error occured 
+Traceback (most recent call last):
+  File "C:\Users\mvmgr\Documents\pycharmprojects\exceptions.py", line 4, in <module>
+    raise Exception("Error occured ")
+Exception: Error occured 
+Traceback (most recent call last):
+  File "C:\Users\mvmgr\Documents\pycharmprojects\exceptions.py", line 4, in <module>
+    raise Exception("Error occured ")
+Exception: Error occured 
+Traceback (most recent call last):
+  File "C:\Users\mvmgr\Documents\pycharmprojects\exceptions.py", line 4, in <module>
+    raise Exception("Error occured ")
+Exception: Error occured 
+Traceback (most recent call last):
+  File "C:\Users\mvmgr\Documents\pycharmprojects\exceptions.py", line 4, in <module>
+    raise Exception("Error occured ")
+Exception: Error occured 
+Traceback (most recent call last):
+  File "C:\Users\mvmgr\Documents\pycharmprojects\exceptions.py", line 4, in <module>
+    raise Exception("Error occured ")
+Exception: Error occured 
+Traceback (most recent call last):
+  File "C:\Users\mvmgr\Documents\pycharmprojects\exceptions.py", line 4, in <module>
+    raise Exception("Error occured ")
+Exception: Error occured 
+Traceback (most recent call last):
+  File "C:\Users\mvmgr\Documents\pycharmprojects\exceptions.py", line 4, in <module>
+    raise Exception("Error occured ")
+Exception: Error occured 
+Traceback (most recent call last):
+  File "C:\Users\mvmgr\Documents\pycharmprojects\exceptions.py", line 4, in <module>
+    raise Exception("Error occured ")
+Exception: Error occured 
+Traceback (most recent call last):
+  File "C:\Users\mvmgr\Documents\pycharmprojects\exceptions.py", line 4, in <module>
+    raise Exception("Error occured ")
+Exception: Error occured 
+Traceback (most recent call last):
+  File "C:\Users\mvmgr\Documents\pycharmprojects\exceptions.py", line 4, in <module>
+    raise Exception("Error occured ")
+Exception: Error occured 
+Traceback (most recent call last):
+  File "C:\Users\mvmgr\Documents\pycharmprojects\exceptions.py", line 4, in <module>
+    raise Exception("Error occured ")
+Exception: Error occured 
+Traceback (most recent call last):
+  File "C:\Users\mvmgr\Documents\pycharmprojects\exceptions.py", line 4, in <module>
+    raise Exception("Error occured ")
+Exception: Error occured 
+Traceback (most recent call last):
+  File "C:\Users\mvmgr\Documents\pycharmprojects\exceptions.py", line 4, in <module>
+    raise Exception("Error occured ")
+Exception: Error occured 
+Traceback (most recent call last):
+  File "C:\Users\mvmgr\Documents\pycharmprojects\exceptions.py", line 4, in <module>
+    raise Exception("Error occured ")
+Exception: Error occured 
+Traceback (most recent call last):
+  File "C:\Users\mvmgr\Documents\pycharmprojects\exceptions.py", line 4, in <module>
+    raise Exception("Error occured ")
+Exception: Error occured 

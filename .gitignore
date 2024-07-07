@@ -1,0 +1,11 @@
+/venv/
+.idea
+.~lock.excelsheet.xlsx#
+docTest.txt
+output.zip
+files
+pythonNotes.txt
+weather.csv
+pythonModules.py
+file1.txt
+file2.txt
