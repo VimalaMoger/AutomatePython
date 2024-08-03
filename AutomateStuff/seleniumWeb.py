@@ -33,12 +33,5 @@ try:
 
 finally:
     driver.quit()
-#button.clear()
-#button.send_keys('kids')
-#button.submit()
-#actions = ActionChains(browser)
-#actions.click(button1)
-#actions.move_to_element(button2)
-#actions.click().send_keys('kids').send_keys()
-#actions.perform()
+
 
