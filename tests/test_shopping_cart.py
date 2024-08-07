@@ -9,7 +9,7 @@ from shopping_cart.shopping_cart import ShoppingCart
 #use cases for unittests
 #running unittests with pytest
 #set up fixtures in pytest
-#shopping cart initialization into fixtures for refactoring my code in enchance
+#shopping cart initialization into fixtures for refactoring my code enchancing
 #writing less lines of code(reducing boilerplate overhead)
 #mock dependency-fake behavior of classes, fake data that unittest can use it
 
