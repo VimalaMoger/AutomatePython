@@ -1,4 +1,7 @@
-# Project goal
+# Project contents
+
+_Includes_
+Python Automation, docTest, test modules
 
 ***Text processing scripts***, ***simple scripts to navigate around in the directory structure***, created ***regular expressions*** to compare the files found by the Os and Os.path modules
     
